@@ -6,8 +6,11 @@ body {
   margin: 0;
   padding: 0;
 
-  --blue-color: #00acdc;
   --text-size: 12px;
+}
+
+:root {
+  --blue-color: #00acdc;
 }
 
 .header {
